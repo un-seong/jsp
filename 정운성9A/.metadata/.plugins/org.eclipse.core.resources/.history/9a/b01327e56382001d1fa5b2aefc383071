@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+<a href="allList.jsp">추천메뉴</a>
+<a>치킨&세트</a>
+<a>버거&세트</a>
+<a>스낵&사이드</a>
+<a>음료</a>
+<a>주소등록</a>
+
+
+
+</body>
+</html>

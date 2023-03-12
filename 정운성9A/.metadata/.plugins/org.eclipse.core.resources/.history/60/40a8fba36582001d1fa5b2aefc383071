@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+
+
+<a href="allList.jsp">전체목록</a>
+<a href="cateList.jsp">분류별 목록</a>
+<a href="selectOne.jsp">단일조회</a>
+<a href="update.jsp">수정</a>
+<a href="delete.jsp">삭제기능</a>
+
+
+
+
+</body>
+</html>

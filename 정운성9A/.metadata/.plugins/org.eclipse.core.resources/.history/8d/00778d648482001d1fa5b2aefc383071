@@ -1,0 +1,22 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+
+<a href="cateList-action.jsp?category=치킨"><img src="${cpath }/image/header/치킨.png">치킨</a>
+<a href="cateList-action.jsp?category=버거"><img src="${cpath }/image/header/버거.png">버거</a>
+<a href="cateList-action.jsp?category=스낵"><img src="${cpath }/image/header/스낵.png">스낵</a>
+<a href="cateList-action.jsp?category=음료"><img src="${cpath }/image/header/마실거.png">음료</a>
+
+<div>
+	<a href="allList.jsp">전체목록</a>
+	<a href="cateList.jsp">분류별 목록</a>
+	<a href="selectOne.jsp">단일조회</a>
+	<a href="update.jsp">수정</a>
+	<a href="add.jsp">추가</a>
+</div>
+
+
+
+</body>
+</html>

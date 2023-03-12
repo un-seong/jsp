@@ -1,0 +1,264 @@
+
+12월 23, 2022 09:22:16.08 NEW SESSION
+12월 23, 2022 09:22:16.08 [7504:1904:1223/092216.081:ERROR:device_event_log_impl.cc(215)] [09:22:16.080] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 09:22:43.33 [10532:1148:1223/092243.333:ERROR:device_event_log_impl.cc(215)] [09:22:43.334] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 09:23:41.25 [11588:11592:1223/092341.257:ERROR:device_event_log_impl.cc(215)] [09:23:41.258] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 09:24:39.12 [11588:11688:1223/092439.119:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 09:29:37.65 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 09:29:55.01 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 09:30:08.18 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 09:30:14.56 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 09:30:21.81 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 09:30:31.15 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 10:20:30.89 [6832:1500:1223/102030.891:ERROR:device_event_log_impl.cc(215)] [10:20:30.891] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:21:28.70 [6832:1188:1223/102128.703:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 10:24:37.88 [1592:10080:1223/102437.885:ERROR:device_event_log_impl.cc(215)] [10:24:37.884] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:25:10.09 [1432:9868:1223/102510.094:ERROR:device_event_log_impl.cc(215)] [10:25:10.094] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:27:41.47 [11784:11296:1223/102741.478:ERROR:device_event_log_impl.cc(215)] [10:27:41.478] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:28:39.33 [11784:1696:1223/102839.336:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 10:29:07.38 [4872:4564:1223/102907.383:ERROR:device_event_log_impl.cc(215)] [10:29:07.383] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:31:48.41 [512:6164:1223/103148.418:ERROR:device_event_log_impl.cc(215)] [10:31:48.418] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:32:45.45 [512:10212:1223/103245.455:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 10:33:59.40 [8356:11320:1223/103359.405:ERROR:device_event_log_impl.cc(215)] [10:33:59.405] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:38:28.59 [2484:9288:1223/103828.595:ERROR:device_event_log_impl.cc(215)] [10:38:28.596] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:39:03.00 [5212:816:1223/103903.006:ERROR:device_event_log_impl.cc(215)] [10:39:03.006] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:40:05.55 [1528:4060:1223/104005.559:ERROR:device_event_log_impl.cc(215)] [10:40:05.558] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:46:49.71 [11652:11404:1223/104649.715:ERROR:device_event_log_impl.cc(215)] [10:46:49.714] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:47:59.51 [6344:1684:1223/104759.509:ERROR:device_event_log_impl.cc(215)] [10:47:59.509] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:55:04.55 [6740:4276:1223/105504.558:ERROR:device_event_log_impl.cc(215)] [10:55:04.558] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:55:37.84 [2824:6112:1223/105537.847:ERROR:device_event_log_impl.cc(215)] [10:55:37.847] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 10:56:22.40 [11712:8796:1223/105622.405:ERROR:device_event_log_impl.cc(215)] [10:56:22.406] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:02:29.19 [4868:11088:1223/110229.197:ERROR:device_event_log_impl.cc(215)] [11:02:29.196] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:03:26.07 [4868:1804:1223/110326.079:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 11:17:26.30 [9872:4684:1223/111726.306:ERROR:device_event_log_impl.cc(215)] [11:17:26.306] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:24:44.39 [10160:6568:1223/112444.397:ERROR:device_event_log_impl.cc(215)] [11:24:44.397] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:25:03.69 [2320:4444:1223/112503.690:ERROR:device_event_log_impl.cc(215)] [11:25:03.690] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:25:48.14 [3160:9320:1223/112548.148:ERROR:device_event_log_impl.cc(215)] [11:25:48.149] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:26:44.81 [3160:5888:1223/112644.816:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 11:32:04.86 [10876:1812:1223/113204.866:ERROR:device_event_log_impl.cc(215)] [11:32:04.865] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:33:02.74 [10876:5112:1223/113302.744:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 11:34:31.10 [5692:3924:1223/113431.101:ERROR:device_event_log_impl.cc(215)] [11:34:31.101] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:35:28.16 [5692:9120:1223/113528.160:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 11:37:28.52 [2096:6556:1223/113728.525:ERROR:device_event_log_impl.cc(215)] [11:37:28.525] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:38:24.82 [2096:11012:1223/113824.823:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 11:39:46.48 [11836:9336:1223/113946.489:ERROR:device_event_log_impl.cc(215)] [11:39:46.489] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:40:44.35 [11836:11408:1223/114044.351:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 11:41:43.11 [7112:11924:1223/114143.114:ERROR:device_event_log_impl.cc(215)] [11:41:43.114] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:42:40.48 [7112:9024:1223/114240.482:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 11:52:39.64 [11928:3484:1223/115239.645:ERROR:device_event_log_impl.cc(215)] [11:52:39.645] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:53:35.88 [11928:11708:1223/115335.880:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 11:57:42.80 [6036:5396:1223/115742.800:ERROR:device_event_log_impl.cc(215)] [11:57:42.800] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 11:58:40.68 [6036:11140:1223/115840.680:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 12:00:45.92 [1084:5872:1223/120045.926:ERROR:device_event_log_impl.cc(215)] [12:00:45.926] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:01:48.37 [2448:12084:1223/120148.370:ERROR:device_event_log_impl.cc(215)] [12:01:48.371] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:02:44.81 [2448:9972:1223/120244.816:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 12:08:45.27 [5472:5440:1223/120845.275:ERROR:device_event_log_impl.cc(215)] [12:08:45.275] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:09:43.18 [5472:1352:1223/120943.185:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 12:11:46.88 [4124:1528:1223/121146.883:ERROR:device_event_log_impl.cc(215)] [12:11:46.884] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:12:44.85 [4124:11088:1223/121244.855:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 12:25:04.38 [1888:9640:1223/122504.382:ERROR:device_event_log_impl.cc(215)] [12:25:04.382] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:25:58.45 [1888:6052:1223/122558.455:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 12:30:31.23 [7528:5224:1223/123031.234:ERROR:device_event_log_impl.cc(215)] [12:30:31.234] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:31:28.40 [7528:9540:1223/123128.408:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 12:33:02.35 [7528:5224:1223/123302.359:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:02.49 [7528:5224:1223/123302.491:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:02.63 [7528:5224:1223/123302.629:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:02.73 [7528:5224:1223/123302.735:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:02.86 [7528:5224:1223/123302.860:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:02.98 [7528:5224:1223/123302.981:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:03.09 [7528:5224:1223/123303.096:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:03.21 [7528:5224:1223/123303.215:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:03.37 [7528:5224:1223/123303.373:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:03.49 [7528:5224:1223/123303.495:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:03.66 [7528:5224:1223/123303.663:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:03.76 [7528:5224:1223/123303.767:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:03.90 [7528:5224:1223/123303.903:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:04.00 [7528:5224:1223/123304.005:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:04.74 [7528:5224:1223/123304.742:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:04.85 [7528:5224:1223/123304.855:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:05.12 [7528:5224:1223/123305.129:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:05.56 [7528:5224:1223/123305.564:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:05.67 [7528:5224:1223/123305.671:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:05.92 [7528:5224:1223/123305.925:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:06.04 [7528:5224:1223/123306.047:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:06.18 [7528:5224:1223/123306.182:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:06.62 [7528:5224:1223/123306.628:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:06.75 [7528:5224:1223/123306.757:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:07.72 [7528:5224:1223/123307.725:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:07.83 [7528:5224:1223/123307.835:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:07.95 [7528:5224:1223/123307.951:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:08.17 [7528:5224:1223/123308.177:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:08.29 [7528:5224:1223/123308.296:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:08.55 [7528:5224:1223/123308.552:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:08.66 [7528:5224:1223/123308.663:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:08.78 [7528:5224:1223/123308.783:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:09.01 [7528:5224:1223/123309.015:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:09.13 [7528:5224:1223/123309.129:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:09.39 [7528:5224:1223/123309.399:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:09.51 [7528:5224:1223/123309.513:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:09.89 [7528:5224:1223/123309.896:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:10.01 [7528:5224:1223/123310.014:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:10.13 [7528:5224:1223/123310.135:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:10.28 [7528:5224:1223/123310.279:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:10.39 [7528:5224:1223/123310.395:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:10.53 [7528:5224:1223/123310.532:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:33:11.09 [7528:5224:1223/123311.095:ERROR:page_load_metrics_update_dispatcher.cc(160)] Invalid parse_start 0.376 s for activation_start 0.31359 s
+12월 23, 2022 12:36:38.20 [6296:2484:1223/123638.201:ERROR:device_event_log_impl.cc(215)] [12:36:38.201] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:37:12.49 [11984:7012:1223/123712.490:ERROR:device_event_log_impl.cc(215)] [12:37:12.490] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:41:08.93 [9412:5180:1223/124108.938:ERROR:device_event_log_impl.cc(215)] [12:41:08.939] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:42:06.40 [9412:1148:1223/124206.407:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 12:50:35.85 [1340:7192:1223/125035.853:ERROR:device_event_log_impl.cc(215)] [12:50:35.853] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:51:32.61 [1340:7224:1223/125132.618:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 12:52:34.55 [3040:8220:1223/125234.551:ERROR:device_event_log_impl.cc(215)] [12:52:34.551] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:53:31.55 [3040:8808:1223/125331.552:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 12:55:22.67 [8388:6084:1223/125522.676:ERROR:device_event_log_impl.cc(215)] [12:55:22.676] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:55:41.55 [9736:10516:1223/125541.557:ERROR:device_event_log_impl.cc(215)] [12:55:41.557] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:56:34.22 [12200:5268:1223/125634.221:ERROR:device_event_log_impl.cc(215)] [12:56:34.221] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 12:57:32.06 [12200:11528:1223/125732.064:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 12:59:29.99 [10472:12264:1223/125929.997:ERROR:device_event_log_impl.cc(215)] [12:59:29.997] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 13:00:10.51 [10472:6720:1223/130010.511:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 13:00:50.61 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:00:58.65 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:01:07.71 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:01:20.25 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:01:35.14 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:01:55.11 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:02:00.55 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:02:07.31 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:02:13.38 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:02:25.15 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:02:47.19 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:02:54.14 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:03:02.46 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:03:08.86 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:03:14.93 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:03:20.93 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:03:28.06 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:03:52.98 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:03:59.93 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:04:05.63 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:04:13.53 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:04:21.36 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:04:27.47 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+12월 23, 2022 13:05:18.89 [9388:8200:1223/130518.895:ERROR:device_event_log_impl.cc(215)] [13:05:18.896] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 13:06:16.79 [9388:6608:1223/130616.793:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 13:27:29.73 [8876:1148:1223/132729.738:ERROR:device_event_log_impl.cc(215)] [13:27:29.738] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 13:28:27.58 [8876:5992:1223/132827.584:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 13:52:54.85 [11584:6984:1223/135254.858:ERROR:device_event_log_impl.cc(215)] [13:52:54.858] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 13:53:51.97 [11584:11132:1223/135351.979:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 13:54:29.25 [11692:2492:1223/135429.256:ERROR:device_event_log_impl.cc(215)] [13:54:29.257] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 13:56:27.59 [12056:3520:1223/135627.599:ERROR:device_event_log_impl.cc(215)] [13:56:27.599] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 13:57:24.48 [12056:6372:1223/135724.487:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 14:00:42.80 [6216:908:1223/140042.801:ERROR:device_event_log_impl.cc(215)] [14:00:42.800] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:01:23.29 [6452:10376:1223/140123.292:ERROR:device_event_log_impl.cc(215)] [14:01:23.292] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:02:20.03 [6452:5592:1223/140220.038:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 14:02:44.89 [11596:272:1223/140244.891:ERROR:device_event_log_impl.cc(215)] [14:02:44.891] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:03:40.28 [11596:6908:1223/140340.279:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 14:04:02.19 [10420:5212:1223/140402.195:ERROR:device_event_log_impl.cc(215)] [14:04:02.195] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:04:58.93 [10420:11356:1223/140458.934:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 14:07:00.83 [268:9404:1223/140700.835:ERROR:device_event_log_impl.cc(215)] [14:07:00.835] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:07:57.26 [268:4500:1223/140757.261:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 14:09:52.19 [12024:4984:1223/140952.195:ERROR:device_event_log_impl.cc(215)] [14:09:52.194] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:10:47.86 [3552:4520:1223/141047.867:ERROR:device_event_log_impl.cc(215)] [14:10:47.866] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:11:06.90 [3020:7300:1223/141106.900:ERROR:device_event_log_impl.cc(215)] [14:11:06.900] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:11:55.37 [2092:8132:1223/141155.374:ERROR:device_event_log_impl.cc(215)] [14:11:55.374] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:12:15.43 [3412:10004:1223/141215.434:ERROR:device_event_log_impl.cc(215)] [14:12:15.434] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:13:11.98 [3412:576:1223/141311.982:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 14:14:54.26 [10812:11652:1223/141454.268:ERROR:device_event_log_impl.cc(215)] [14:14:54.268] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:15:06.47 [3992:5396:1223/141506.472:ERROR:device_event_log_impl.cc(215)] [14:15:06.472] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:15:36.09 [9296:5268:1223/141536.094:ERROR:device_event_log_impl.cc(215)] [14:15:36.095] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:16:20.86 [8724:3912:1223/141620.864:ERROR:device_event_log_impl.cc(215)] [14:16:20.864] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:17:13.54 [12248:3480:1223/141713.548:ERROR:device_event_log_impl.cc(215)] [14:17:13.548] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:18:12.02 [9116:1716:1223/141812.024:ERROR:device_event_log_impl.cc(215)] [14:18:12.024] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:18:30.11 [10812:3992:1223/141830.116:ERROR:device_event_log_impl.cc(215)] [14:18:30.115] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:18:59.19 [10140:5352:1223/141859.195:ERROR:device_event_log_impl.cc(215)] [14:18:59.195] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:19:23.17 [6708:9188:1223/141923.176:ERROR:device_event_log_impl.cc(215)] [14:19:23.176] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:20:27.91 [1904:12020:1223/142027.917:ERROR:device_event_log_impl.cc(215)] [14:20:27.917] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:20:44.58 [5996:10216:1223/142044.580:ERROR:device_event_log_impl.cc(215)] [14:20:44.580] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:21:22.21 [8388:5356:1223/142122.213:ERROR:device_event_log_impl.cc(215)] [14:21:22.212] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:22:04.38 [8804:9932:1223/142204.384:ERROR:device_event_log_impl.cc(215)] [14:22:04.385] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:22:18.61 [9228:3948:1223/142218.616:ERROR:device_event_log_impl.cc(215)] [14:22:18.617] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:23:14.57 [11708:4140:1223/142314.576:ERROR:device_event_log_impl.cc(215)] [14:23:14.576] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:23:59.89 [4324:9116:1223/142359.891:ERROR:device_event_log_impl.cc(215)] [14:23:59.891] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:24:56.34 [4324:4436:1223/142456.340:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 14:41:41.22 [2052:7240:1223/144141.228:ERROR:device_event_log_impl.cc(215)] [14:41:41.227] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:42:38.29 [2052:11148:1223/144238.294:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 14:46:10.40 [11636:4040:1223/144610.403:ERROR:device_event_log_impl.cc(215)] [14:46:10.404] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:46:38.28 [1032:3044:1223/144638.282:ERROR:device_event_log_impl.cc(215)] [14:46:38.282] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:47:11.84 [9420:10760:1223/144711.849:ERROR:device_event_log_impl.cc(215)] [14:47:11.848] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:47:25.01 [7992:6456:1223/144725.013:ERROR:device_event_log_impl.cc(215)] [14:47:25.012] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:48:17.30 [11852:1736:1223/144817.299:ERROR:device_event_log_impl.cc(215)] [14:48:17.300] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:48:27.07 [3992:11336:1223/144827.078:ERROR:device_event_log_impl.cc(215)] [14:48:27.078] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:48:43.25 [5112:6240:1223/144843.256:ERROR:device_event_log_impl.cc(215)] [14:48:43.256] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 14:49:40.09 [5112:4436:1223/144940.092:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 15:21:30.08 [7872:9312:1223/152130.081:ERROR:device_event_log_impl.cc(215)] [15:21:30.081] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 15:22:26.47 [7872:12040:1223/152226.477:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+12월 23, 2022 15:32:18.35 NEW SESSION
+12월 23, 2022 15:32:18.35 [540:3564:1223/153218.356:ERROR:device_event_log_impl.cc(215)] [15:32:18.356] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 15:32:50.41 [5900:7544:1223/153250.409:ERROR:device_event_log_impl.cc(215)] [15:32:50.410] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 15:33:32.80 [7232:5384:1223/153332.800:ERROR:device_event_log_impl.cc(215)] [15:33:32.800] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 15:34:11.21 [3924:1612:1223/153411.212:ERROR:device_event_log_impl.cc(215)] [15:34:11.213] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+12월 23, 2022 15:34:53.51 NEW SESSION
+12월 23, 2022 15:34:53.51 [1208:3948:1223/153453.513:ERROR:device_event_log_impl.cc(215)] [15:34:53.512] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 15:36:38.45 [7292:8016:1223/153638.451:ERROR:device_event_log_impl.cc(215)] [15:36:38.451] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 15:37:36.22 [7292:12276:1223/153736.222:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 15:39:04.51 [11368:3552:1223/153904.510:ERROR:device_event_log_impl.cc(215)] [15:39:04.510] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 15:40:00.94 [11368:5716:1223/154000.942:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 15:41:27.46 [4512:1736:1223/154127.465:ERROR:device_event_log_impl.cc(215)] [15:41:27.466] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 15:42:23.18 [4512:6368:1223/154223.182:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 15:44:18.73 [3988:6264:1223/154418.737:ERROR:device_event_log_impl.cc(215)] [15:44:18.737] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 15:45:16.60 [3988:8724:1223/154516.606:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 15:53:46.83 [11644:4280:1223/155346.834:ERROR:device_event_log_impl.cc(215)] [15:53:46.833] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 15:54:11.57 [520:3020:1223/155411.570:ERROR:device_event_log_impl.cc(215)] [15:54:11.571] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 15:55:09.50 [520:10812:1223/155509.509:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 15:58:21.02 [5868:12268:1223/155821.021:ERROR:device_event_log_impl.cc(215)] [15:58:21.021] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 15:59:18.92 [5868:8808:1223/155918.927:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 16:02:40.79 [8676:1232:1223/160240.796:ERROR:device_event_log_impl.cc(215)] [16:02:40.796] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:03:00.59 [2932:9092:1223/160300.592:ERROR:device_event_log_impl.cc(215)] [16:03:00.593] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:03:57.68 [2932:6820:1223/160357.688:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 16:23:18.79 [4600:1300:1223/162318.793:ERROR:device_event_log_impl.cc(215)] [16:23:18.793] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:23:52.21 [9188:10816:1223/162352.216:ERROR:device_event_log_impl.cc(215)] [16:23:52.216] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:25:21.32 [7884:12096:1223/162521.322:ERROR:device_event_log_impl.cc(215)] [16:25:21.322] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:26:19.17 [7884:8220:1223/162619.173:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 16:31:00.88 [9092:9728:1223/163100.887:ERROR:device_event_log_impl.cc(215)] [16:31:00.887] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:31:57.30 [9092:2704:1223/163157.302:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 16:32:19.19 [11836:9420:1223/163219.193:ERROR:device_event_log_impl.cc(215)] [16:32:19.193] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:34:13.05 [4140:3948:1223/163413.050:ERROR:device_event_log_impl.cc(215)] [16:34:13.049] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:36:28.66 [2420:7824:1223/163628.668:ERROR:device_event_log_impl.cc(215)] [16:36:28.668] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:37:16.95 [2156:11536:1223/163716.959:ERROR:device_event_log_impl.cc(215)] [16:37:16.959] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:37:29.80 [1208:10824:1223/163729.809:ERROR:device_event_log_impl.cc(215)] [16:37:29.808] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:37:43.02 [10880:5164:1223/163743.027:ERROR:device_event_log_impl.cc(215)] [16:37:43.028] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:38:10.99 [10112:6148:1223/163810.992:ERROR:device_event_log_impl.cc(215)] [16:38:10.993] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:38:34.76 [12016:10580:1223/163834.765:ERROR:device_event_log_impl.cc(215)] [16:38:34.765] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:38:53.56 [4196:7732:1223/163853.567:ERROR:device_event_log_impl.cc(215)] [16:38:53.567] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:39:22.83 [7916:500:1223/163922.831:ERROR:device_event_log_impl.cc(215)] [16:39:22.831] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:40:09.06 [1032:10424:1223/164009.066:ERROR:device_event_log_impl.cc(215)] [16:40:09.066] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:41:27.04 [11212:10216:1223/164127.049:ERROR:device_event_log_impl.cc(215)] [16:41:27.049] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:45:37.53 [11880:12024:1223/164537.532:ERROR:device_event_log_impl.cc(215)] [16:45:37.532] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:46:35.27 [11880:3984:1223/164635.270:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 16:48:01.70 [11880:12024:1223/164801.705:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+12월 23, 2022 16:48:37.32 [6660:7908:1223/164837.326:ERROR:device_event_log_impl.cc(215)] [16:48:37.327] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:49:35.20 [6660:6224:1223/164935.203:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 16:58:43.93 [4884:6860:1223/165843.933:ERROR:device_event_log_impl.cc(215)] [16:58:43.933] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:58:52.50 [10124:5768:1223/165852.503:ERROR:device_event_log_impl.cc(215)] [16:58:52.502] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 16:59:58.97 [2368:6036:1223/165958.972:ERROR:device_event_log_impl.cc(215)] [16:59:58.972] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 17:00:15.02 [4704:8840:1223/170015.026:ERROR:device_event_log_impl.cc(215)] [17:00:15.026] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 17:01:12.87 [4704:6984:1223/170112.871:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 17:03:18.07 [5028:5424:1223/170318.072:ERROR:device_event_log_impl.cc(215)] [17:03:18.072] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 17:04:13.90 [5028:11468:1223/170413.902:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 17:11:15.94 [7872:6772:1223/171115.944:ERROR:device_event_log_impl.cc(215)] [17:11:15.944] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 17:12:13.87 [7872:712:1223/171213.870:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 17:15:02.58 [10880:5544:1223/171502.586:ERROR:device_event_log_impl.cc(215)] [17:15:02.586] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 17:15:58.73 [10880:4012:1223/171558.734:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 17:17:22.72 [10908:4152:1223/171722.728:ERROR:device_event_log_impl.cc(215)] [17:17:22.729] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 17:18:03.13 [9432:6092:1223/171803.136:ERROR:device_event_log_impl.cc(215)] [17:18:03.136] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 17:18:23.96 [8068:10048:1223/171823.963:ERROR:device_event_log_impl.cc(215)] [17:18:23.964] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 17:19:21.12 [8068:9808:1223/171921.126:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 17:20:16.76 [11140:2644:1223/172016.760:ERROR:device_event_log_impl.cc(215)] [17:20:16.760] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 17:21:12.24 [11140:1332:1223/172112.246:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 18:20:48.85 [3536:4008:1223/182048.858:ERROR:device_event_log_impl.cc(215)] [18:20:48.858] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 18:21:46.71 [3536:9552:1223/182146.718:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+12월 23, 2022 18:29:09.42 [3912:8332:1223/182909.422:ERROR:device_event_log_impl.cc(215)] [18:29:09.421] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 23, 2022 18:30:05.85 [3912:6540:1223/183005.855:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater

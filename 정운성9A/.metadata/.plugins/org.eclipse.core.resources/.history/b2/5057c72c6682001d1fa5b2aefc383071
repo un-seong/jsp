@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+
+<c:forEach var="select" items="${dao.selectOne(param.name) }">
+	<div>
+		<div><img src="image/${cateList.img }" width="200px;" height="200px;"></div>
+		<div>${cateList.name }</div>
+		<div>${cateList.memo }</div>
+		<div>${cateList.price }</div>
+	</div>
+</c:forEach>
+
+</body>
+</html>

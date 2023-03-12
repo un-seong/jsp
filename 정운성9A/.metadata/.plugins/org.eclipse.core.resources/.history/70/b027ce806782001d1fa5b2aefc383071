@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+<c:set var="select" value="${dao.selectOne(param.name) }" />
+
+<form>
+	<input type="text" name="" value="">
+	<input type="text" name="" value="">
+	<input type="text" name="" value="">
+	<input type="text" name="" value="">
+	<input type="text" name="" value="">
+	<input type="text" name="" value="">
+	<input type="text" name="" value="">
+	<input type="submit">
+</form>
+
+</body>
+</html>

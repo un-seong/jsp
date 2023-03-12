@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+<jsp:useBean id="menu" class="정운성9A.KfcDTO" />
+<jsp:setProperty property="*" name="menu"/>
+
+<c:set var="update" value="${dao.update(menu) }" />
+
+<c:if test="${update != 0 ? '수정 성공' : '수정 실패' }" />
+
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+
+
+
+<c:forEach var="list" items="${dao.getList()}">
+<div class="item" style="visibility: ${list.wtd == 'N' ? 'none' : ''}">
+	<div><img src="image/${list.img }" width="200px;" height="200px;"></div>
+	<div>${list.name }</div>
+	<div>${list.memo }</div>
+	<div>${list.price }</div>
+</div>
+</c:forEach>
+
+<a href="index.jsp"><button>홈으로</button></a>
+
+</body>
+</html>

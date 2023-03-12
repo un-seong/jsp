@@ -1,0 +1,23 @@
+package 정운성9A;
+
+//	idx         number      
+//	name        varchar2(100)
+//	price       number
+//	category    varchar2(100)
+//	memo        varchar2(100)
+//	img         varchar2(100)
+//	wtd         varchar2(100)
+
+
+public class KfcDTO {
+
+	private int idx;
+	private String name;
+	private int price;
+	private String category;
+	private String memo;
+	private String img;
+	private String wtd;
+	
+		
+}

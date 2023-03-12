@@ -1,0 +1,26 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+<a href="allList.jsp">추천메뉴</a>
+<a>치킨&세트</a>
+<a>버거&세트</a>
+<a>스낵&사이드</a>
+<a>음료</a>
+<a>주소등록</a>
+
+<c:set var="dao" value="${KfcDAO.getInstance()}" />
+
+<c:forEach var="list" items="${dao.getList()}">
+<div>
+	<div><img src="image/${list.img }" width="200px;" height="200px;"></div>
+	<div>${list.name }</div>
+	<div>${list.memo }</div>
+	<div>${list.price }</div>
+</div>
+</c:forEach>
+
+
+
+</body>
+</html>

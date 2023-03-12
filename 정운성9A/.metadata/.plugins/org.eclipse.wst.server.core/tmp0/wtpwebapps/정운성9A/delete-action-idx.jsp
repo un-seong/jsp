@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+<c:set var="recover" value="${dao.deleteIdx(param.idx) }" />
+
+<c:if test="${deleteName != 0 }">
+	<h3>삭제 성공</h3>
+	<a href="index.jsp"><button>홈으로</button></a>
+</c:if>
+
+<c:if test="${deleteName == 0 }">
+	<h3>삭제 실패</h3>
+	<a href="index.jsp"><button>홈으로</button></a>
+</c:if>
+
+
+</body>
+</html>

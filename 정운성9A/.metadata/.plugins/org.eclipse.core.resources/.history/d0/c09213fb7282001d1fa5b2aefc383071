@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+<jsp:useBean id="add" class="정운성9A.KfcDTO" />
+<jsp:setProperty property="*" name="add"/>
+
+<c:set var="complete" value="${dao.addition(add) }" />
+
+<c:if test="${complete != 0 }">
+	<h3>추가 성공</h3>
+	<a href="index.jsp"><button>홈으로</button></a>
+</c:if>
+
+</body>
+</html>

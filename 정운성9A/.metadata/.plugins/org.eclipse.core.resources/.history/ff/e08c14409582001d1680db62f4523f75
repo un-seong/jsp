@@ -1,0 +1,38 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+	<table>
+		<tr>
+			<th>idx</th>
+			<th>name</th>
+			<th>price</th>
+			<th>category</th>
+			<th>memo</th>
+			<th>img</th>
+			<th>wtd</th>
+		</tr>
+	<c:forEach var="delete" items="${dao.showDeleteList() }">	
+		<tr>
+			<td>${delete.idx }</td>
+			<td>${delete.name }</td>
+			<td>${delete.price }</td>
+			<td>${delete.category }</td>
+			<td>${delete.memo }</td>
+			<td>${delete.img }</td>
+			<td>${delete.wtd }</td>		
+		</tr>
+	</c:forEach>
+	</table>
+
+
+<form method="POST" action="recever-action.jsp">
+	<fieldset style="width: 100px; margin-top: 30px;">
+		<legend>삭제</legend>
+		<input type="number" name="idx" placeholder="복구 할 번호 입력">
+		<input type="submit">
+	</fieldset>
+</form>
+
+</body>
+</html>

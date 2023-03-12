@@ -1,0 +1,22 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="header.jsp" %>
+
+<c:set var="deleteList" value="${dao.showDeleteList() }" />
+
+<c:forEach var="delete" items="${delteList }">
+	<table>
+		<tr>
+			<th></th>
+			<th></th>
+			<th></th>
+			<th></th>
+			<th></th>
+		</tr>
+	
+	</table>
+
+</c:forEach>
+
+</body>
+</html>
